@@ -1,2 +1,6 @@
 dinchak  dinchak
 dinchak 2  dinchak 2
+dinchak 3  dinchak 3
+dinchak 4  dinchak 4
+dinchak 5  dinchak 5
+dinchak 6  dinchak 6
